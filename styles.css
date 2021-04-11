@@ -18,10 +18,9 @@ body {
     flex-wrap: wrap;
 }
 
-.find {
-    align-items: flex-start;
+.find, .events {
+    margin: 5%;
     border: solid;
-    margin: 10%;
     padding: 30px;
     box-shadow: 5px 10px;
 }
