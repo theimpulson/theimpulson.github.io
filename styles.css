@@ -1,3 +1,7 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
 .center {
     display: block;
     margin-left: auto;
@@ -5,10 +9,19 @@
     margin-top: 100px;
 }
 
-body {
-    font-family: 'Quicksand', sans-serif;
-}
-
 .header {
     text-align: center;
+}
+
+.findAndEvents {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.find {
+    align-items: flex-start;
+    border: solid;
+    margin: 10%;
+    padding: 30px;
+    box-shadow: 5px 10px;
 }
