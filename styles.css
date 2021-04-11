@@ -2,6 +2,10 @@ body {
     font-family: 'Quicksand', sans-serif;
 }
 
+footer {
+    text-align: center;
+}
+
 .center {
     display: block;
     margin-left: auto;
@@ -16,9 +20,10 @@ body {
 .findAndEvents {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
-.find, .events {
+.find, .events, .contact, .projects {
     margin: 5%;
     border: solid;
     padding: 30px;
