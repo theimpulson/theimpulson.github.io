@@ -33,6 +33,13 @@
           <span>{{ site.data.locales[include.lang].tabs.home | upcase }}</span>
         </a>
       </li>
+      <!-- box -->
+      <li class="nav-item">
+        <a href="https://box.aayush.io" class="nav-link" target="_blank">
+          <i class="fa-fw fas fa-box"></i> 
+          <span>BOX</span>
+        </a>
+      </li>
       <!-- the real tabs -->
       {% for tab in site.tabs %}
         <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
