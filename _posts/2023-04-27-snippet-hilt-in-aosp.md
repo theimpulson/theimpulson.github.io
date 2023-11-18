@@ -71,17 +71,15 @@ Remember that the annotations supported in AOSP are limited to what the `hilt_an
 
 ## Gradle
 
-While supporting AOSP is excellent, using annotations as shown above (without the Gradle plugin) breaks Gradle builds. To mitigate this, disable Hilt's aggregating task and enable Kapt's error type correction in your app's `build.gradle` file.
+While supporting AOSP is excellent, using annotations as shown above (without the Gradle plugin) breaks Gradle builds. To mitigate this, disable Hilt's aggregating task in your app's `build.gradle` file.
 
-```groovy
-kapt {
-    correctErrorTypes true
-}
-
+```kotlin
 hilt {
-    enableAggregatingTask false
+    enableAggregatingTask = false
 }
 ```
+
+> It is recommended to use KSP instead of KAPT. KAPT is known to have issues and requires enabling `correctErrorTypes`.
 
 That should be all that one may need to start working with Hilt for projects compiled in AOSP.
 
