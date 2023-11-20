@@ -16,7 +16,7 @@ In the aforementioned alternatives, [DownloadManager](https://developer.android.
 
 As a result, the only other recommended alternative would be to download the files via the `WorkManager` library by creating a dedicated [CoroutineWorker](https://developer.android.com/reference/kotlin/androidx/work/CoroutineWorker).
 
-> This article's goal isn't to show you how to build `WorkRequest` using `WorkManager` but showcasing the useful additions that can be done on it to develop a good enough `DownloadManager` alternative.
+This article's goal isn't to show you how to build `WorkRequest` using `WorkManager` but showcasing the useful additions that can be done on it to develop a good enough `DownloadManager` alternative. You might want to read [Step by Step Guide to Download Files With WorkManager](https://proandroiddev.com/step-by-step-guide-to-download-files-with-workmanager-b0231b03efd1) article on Medium by Rahul Ray, which builds up a good base for this one.
 
 ## Worker Requirements
 
