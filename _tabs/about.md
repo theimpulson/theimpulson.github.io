@@ -4,9 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi! I am Aayush Gupta, and this is my website. I am a self-taught Android developer, currently working as an independent contractor. I also speak regularly at conferences and meetups regarding the Android-related stuff I usually work on. I generally play games on my Steam Deck or ROG laptop during my free time. I am also learning Japanese (currently at N5 level), the progress of which is slow but is something I enjoy. 
+Hi! I am Aayush Gupta, and this is my website. I am an independent contractor working in the domain of Android (app & framework). I am an active speaker at conferences and meetups as well. When not working, you can find me either playing games on my Steam Deck or learning Japanese (N4). 
 
-Please find my work/speaker/community-related things below. If something needs to be added/outdated, or you have any questions, please contact me.
+You can find my work/speaker/community-related things below. If something needs to be added/outdated, or you have any questions, please feel free to contact me.
 
 ## Active Projects
 
@@ -40,11 +40,12 @@ I have also contributed some articles to [Google Dev Library](https://devlibrary
 
 ## Talks
 
-I am an active speaker at meetups and conferences related to FOSS or Android, though I have a terrible history of saving them. Below are the talks that I have given in 2023 (till 27-04-2023):
+I am an active speaker at meetups and conferences related to FOSS or Android. Below are the talks that I have given in 2023 (till Dec 2023):
 
 - [Diving into Android Enterprise APIs with CalyxOS](https://www.slideshare.net/AayushGupta618113/diving-into-android-enterprise-apis-with-calyxospptx): DurgFOSS (March 2023)
 - [Implementing Configurable Device Security With Security Levels](https://www.slideshare.net/AayushGupta618113/implementing-configurable-device-security-with-security-levelspptx): FOSSASIA (April 2023)
 - [Writing OS Updater App for Android](https://www.slideshare.net/AayushGupta618113/writing-os-updater-app-for-android): COSCUP (July 2023)
+- [Third-party App Stores on Android](https://www.slideshare.net/AayushGupta618113/thirdparty-app-stores-on-androidpptxpdf): DevFest Raipur 2023 (Dec 2023)
 
 ## Bio (Speaker)
 
