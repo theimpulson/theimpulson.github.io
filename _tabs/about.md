@@ -46,6 +46,7 @@ I am an active speaker at meetups and conferences related to FOSS or Android. Be
 - [Implementing Configurable Device Security With Security Levels](https://www.slideshare.net/AayushGupta618113/implementing-configurable-device-security-with-security-levelspptx): FOSSASIA (April 2023)
 - [Writing OS Updater App for Android](https://www.slideshare.net/AayushGupta618113/writing-os-updater-app-for-android): COSCUP (July 2023)
 - [Third-party App Stores on Android](https://www.slideshare.net/AayushGupta618113/thirdparty-app-stores-on-androidpptxpdf): DevFest Raipur 2023 (Dec 2023)
+- [Exploring App Installation APIs in Android](https://www.slideshare.net/slideshows/exploring-app-installation-apis-in-android/266818804): GDG Raipur (Mar 2024)
 
 ## Bio (Speaker)
 
