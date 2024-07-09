@@ -47,6 +47,7 @@ I am an active speaker at meetups and conferences related to FOSS or Android. Be
 - [Writing OS Updater App for Android](https://www.slideshare.net/AayushGupta618113/writing-os-updater-app-for-android), [YouTube](https://youtu.be/-RoVoQHRVGk) : COSCUP (July 2023)
 - [Third-party App Stores on Android](https://www.slideshare.net/AayushGupta618113/thirdparty-app-stores-on-androidpptxpdf): DevFest Raipur 2023 (Dec 2023)
 - [Exploring App Installation APIs in Android](https://www.slideshare.net/slideshows/exploring-app-installation-apis-in-android/266818804): GDG Raipur (Mar 2024)
+- [Migrating from Foreground Service to WorkManager](https://www.slideshare.net/slideshow/migrating-from-foreground-services-to-workmanager/270137038): HKOSCon 2024 (July 2024)
 
 ## Bio (Speaker)
 
