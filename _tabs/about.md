@@ -48,6 +48,7 @@ I am an active speaker at meetups and conferences related to FOSS or Android. Be
 - [Third-party App Stores on Android](https://www.slideshare.net/AayushGupta618113/thirdparty-app-stores-on-androidpptxpdf): DevFest Raipur 2023 (Dec 2023)
 - [Exploring App Installation APIs in Android](https://www.slideshare.net/slideshows/exploring-app-installation-apis-in-android/266818804): GDG Raipur (Mar 2024)
 - [Migrating from Foreground Service to WorkManager](https://www.slideshare.net/slideshow/migrating-from-foreground-services-to-workmanager/270137038): HKOSCon 2024 (July 2024)
+- [Building an Unofficial Client for XDA Developers](https://www.slideshare.net/slideshow/building-an-unofficial-client-for-xda-developers/270740236): COSCUP 2024 (Aug 2024)
 
 ## Bio (Speaker)
 
