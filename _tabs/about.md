@@ -12,7 +12,7 @@ You can find my work/speaker/community-related things below. If something needs 
 
 As an active freelancer and independent contractor, I have worked on many Android-related projects during my last few years. Some of the projects that I currently work on professionally as well as voluntarily are (only public ones):
 
-- **[ReLabs](https://github.com/theimpulson/ReLabs):** ReLabs is an unofficial, FOSS client for XDA (a.k.a XDA Developers) written in Kotlin and JetPack Compose and is licensed under Apache2.0.
+- **[CCIP-KMP](https://github.com/CCIP-App/CCIP-KMP):** CCIP (Community Checkin with Interactivity Project) a.k.a OPass, is Taiwan's FLOSS conference check-in solution and provides the newest event information for the audience.
 
 - **[Panic](https://gitlab.com/CalyxOS/platform_packages_apps_Panic):** Panic is an app that allows users to uninstall selected apps & run certain actions when a system-wide panic intent is triggered. It leverages the Guardian Project's PanicKit library for working with panic and related intents.
 
