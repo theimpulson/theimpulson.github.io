@@ -41,6 +41,10 @@ I have also contributed some articles to [Google Dev Library](https://devlibrary
 
 I am an active speaker at meetups and conferences related to FOSS and Android. Below are the talks that I have given in the past few years:
 
+#### 2025
+
+- [Writing OPass in KMM](https://www.slideshare.net/slideshow/writing-opass-in-kotlin-multiplatform-mobile/277445916#3): AndroidTaipei (Apr 2025)
+
 #### 2024
 
 - [Working with SELinux on Android](https://www.slideshare.net/slideshow/droidcon-uganda-working-with-selinux-on-android/273488160): Droidcon Uganda (Nov 2024)
