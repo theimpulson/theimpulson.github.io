@@ -28,6 +28,7 @@ A complete list of active/in-active projects can be found on my [LinkedIn](https
 
 My work has been featured from time to time on various places. Below are some of them:
 
+- [Aurora Store with Aayush Gupta](https://thebakery.dev/96/): The Developers' Bakery (Apr 2025)
 - [Aurora Store - Kotlin Office hours](https://bsky.app/profile/did:plc:5fx46b4pfg6kibxag5d5pldu/post/3lgs3h5hsfc2a): FOSDEM (Feb 2025)
 - [BEST apps NOT on the Google Play Store!](https://www.youtube.com/watch?v=AGl5cLZg7Gc): 9to5Google (Sep 2024)
 - [[AMA] We're LineageOS - Developers of the most popular custom Android OS. Ask us anything!](https://web.archive.org/web/20230328052455/https://www.reddit.com/r/Android/comments/k0ynjj/ama_were_lineageos_developers_of_the_most_popular/): Reddit (Nov 2020)
