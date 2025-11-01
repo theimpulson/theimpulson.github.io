@@ -3,9 +3,6 @@ title: Rewriting Exodus Privacy's Android App
 date: 2022-10-14 18:00:00 +0530
 categories: [Blog]
 tags: [event, blog]
-image:
-  path: /assets/img/posts/exodus_privacy.png
-  alt: Exodus Privacy's website's homepage
 ---
 
 Last year while browsing my Twitter feed, I stumbled on a [tweet from Exodus Privacy](https://twitter.com/ExodusPrivacy/status/1462533262279073795) looking for help with their Android app, which was removed from the Google Play Store. This article aims to share how the said app was reinstated in the store but also had multiple improvements it was done.

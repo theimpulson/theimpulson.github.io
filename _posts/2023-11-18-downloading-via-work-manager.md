@@ -3,9 +3,6 @@ title: Downloading Files using Work Manager
 date: 2023-11-18 13:41:00 +0530
 categories: [Engineering]
 tags: [engineering]
-image:
-  path: /assets/img/posts/android_logo_robot.jpg
-  alt: Android brand logo (courtesy of Android Developers)
 ---
 
 Since Android 14, the recommended way to handle FGS jobs that fall into the category of `dataSync` is via [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager). Google explicitly states in the [Android 14 Behaviour Changes](https://developer.android.com/about/versions/14/changes/fgs-types-required#data-sync) docs that:

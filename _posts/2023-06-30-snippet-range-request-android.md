@@ -3,9 +3,6 @@ title: Using Range Requests in Android
 date: 2023-06-30 20:18:00 +0530
 categories: [Engineering]
 tags: [engineering]
-image:
-  path: /assets/img/posts/android_logo_colorful.jpg
-  alt: Android brand logo (courtsey of Android Developers)
 ---
 
 While working with big files, there are times when we would like to access a specific part of it. This is usually not an issue when the file is present locally, as devices nowadays have an incredible r/w speed allowing us to quickly parse the file in question. However, it becomes completely different when the file is hosted on a remote server. In that case, parsing/draining the big file isn't a good option as that can lead to a waste of data and be incredibly slow, depending upon the speed of the data connection.

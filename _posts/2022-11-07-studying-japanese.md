@@ -3,9 +3,6 @@ title: Completed 150 Hours of Studying Japanese
 date: 2022-11-07 15:10:00 +0530
 categories: [Blog]
 tags: [blog]
-image:
-  path: /assets/img/posts/learning_jap.jpg
-  alt: Photo by Alexander Schimmeck on Unsplash
 ---
 
 This year one of my goals was to start working toward learning Japanese. With that in mind, around mid of a year, I joined [Nihongo Online School](https://nihongo-career.com/) to complete 150 hours of studying Japanese. If someone is curious why, specifically 150 hours, there is an excellent blog on GoGoNihon's website [here](https://gogonihon.com/en/blog/150-hour-study-requirement/) that I recommend reading. In this article, I wish to share my experience studying at the school mentioned above.

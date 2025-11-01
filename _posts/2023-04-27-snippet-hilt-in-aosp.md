@@ -3,9 +3,6 @@ title: Working with Hilt in AOSP
 date: 2023-04-27 13:11:00 +0530
 categories: [Engineering]
 tags: [engineering]
-image:
-  path: /assets/img/posts/android_logo_construction.jpg
-  alt: Android brand logo (courtsey of Android Developers)
 ---
 
 Hilt is the recommended dependency injection library for Android used in most projects nowadays. Due to this, Hilt is also present in AOSP (with Dagger2). This post is a short snippet aiming to highlight how one can add Hilt support to their Android app being compiled in AOSP.

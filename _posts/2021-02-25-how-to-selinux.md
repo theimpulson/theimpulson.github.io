@@ -3,9 +3,6 @@ title: Basics of Working with SELinux on Android
 date: 2021-02-25 00:00:00 +0530
 categories: [Engineering]
 tags: [engineering, android, selinux, aosp]
-image:
-  path: /assets/img/posts/hero-selinux.png
-  alt: A hero image designed by Joey from LineageOS
 ---
 
 When it comes to working with SELinux, there aren't a lot of great resources beginners can refer to. I, together with [Nolen Johnson](https://ods.ninja/), have published a blog post for beginners that covers the basics of [Working with SELinux on Android](https://lineageos.org/engineering/HowTo-SELinux/) on the LineageOS Engineering Blog. Give it a read in case you want a good reference to get started with SELinux on Android. The post below is mirrored from the above blog for convenience purposes.
