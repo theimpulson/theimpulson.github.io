@@ -32,9 +32,9 @@ Some of these projects have started to work together with OEMs to get source cod
 
 ### Linux distributions
 
-I see Linux distributions such as [Ubports](https://ubports.com/) and [postmarketOS](https://postmarketos.org/) as a very good real alternative for those looking to move out and away from the Android and iOS platforms. Be warned, there is a lack of apps, and the fact that the majority of the supported devices were launched with Android is something you may want to be concerned about, as ultimately that support might not come for new devices if there is no AOSP.
+I see Linux distributions such as [Ubports](https://ubports.com/) and [postmarketOS](https://postmarketos.org/) as a very good real alternative for those looking to move out and away from the Android and iOS platforms. Be warned, there is a lack of apps, and the fact that the majority of the supported devices were launched with Android is something you may want to be concerned about, as ultimately that support might not come for new devices if there is no AOSP in case the distribution uses Halium.
 
-> Linux distributions work on devices launched with Android thanks to [Halium](https://halium.org/). Halium builds upon LineageOS, which is in turn based upon AOSP.
+> Some linux distributions work on devices launched with Android thanks to [Halium](https://halium.org/). Halium builds upon LineageOS, which is in turn based upon AOSP.
 {: .prompt-info }
 
 Of course, these projects aren't funded by big corporate companies, resulting in a small number of supported devices and the resulting userbase, but they are open and are welcoming to everyone looking for a FOSS OS for their smartphones.
