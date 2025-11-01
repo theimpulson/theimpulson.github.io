@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi! I am Aayush. I am a free and open source software developer, mostly focused in the domain of Android development. I am an active speaker at conferences and meetups as well. When not working, you can find me either playing games on my Steam Deck or learning languages. 
+Hi! I am Aayush. I am a free and open source software developer, mostly focused in the domain of Android development. I am an active speaker at conferences and meetups as well. When not working, you can find me either playing games on my Steam Deck or studying for my bachelors.
 
 You can find my work/speaker/community-related things below. If something needs to be added/outdated, or you have any questions, please feel free to contact me.
 
