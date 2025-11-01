@@ -13,9 +13,9 @@ This isn't exhaustive by any means and in the last year, I have started to exper
 
 - **Mail Client:** None, I prefer using a web browser instead or mobile clients for Gmail and Proton Mail
 - **Mail Server:** Gmail and Proton Mail (paid)
-- **Calendar:** Calendar (Apple), Google Calendar and NextCloud Calendar app
-- **Contacts:** Phone (Apple) and Google Contacts (for cloud backup)
-- **Word Processing/Spreadsheet/Presentation:** MS Office 2019 (I have a free lifetime license that I got when I purchased my laptop)
+- **Calendar:** Calendar (Apple), Google Calendar
+- **Contacts:** Google Contacts
+- **Word Processing/Spreadsheet/Presentation:** LibreOffice
 - **Text Editor:** Sublime Text 4 (paid)
 - **Browser:** Firefox and Safari
 - **Chat:** WhatsApp, Telegram, and Signal (I do have accounts on more services like Discord, Matrix, etc but I prefer to access them via a web browser)
@@ -30,11 +30,11 @@ This isn't exhaustive by any means and in the last year, I have started to exper
 
 ### Media and Storage
 
-- **Photos/Videos:** Camera (Apple)
-- **Photo Management:** Photos (Apple) or Google Photos (though I have come to dislike Google Photos recently and started using File Explorer like old days)
+- **Photos/Videos:** Pixel Camera
+- **Photo Management:** None, using normal file explorer
 - **Storage:** Proton Drive (paid) and SanDisk SSD
 
 ### Misc
 
-- **IDE:** Android Studio, VS Code, and Sublime Text 4 (paid)
+- **IDE:** Android Studio, and Sublime Text 4 (paid)
 - **API Testing:** HTTP Toolkit (I used to like mitmproxy but HTTP Toolkit seems better) and Postman
