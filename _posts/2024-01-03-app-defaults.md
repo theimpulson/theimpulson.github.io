@@ -1,10 +1,8 @@
 ---
 title: App Defaults
-description: Non-exhastive list of software I use everyday
 date: 2024-01-03 00:16:00 +0530
 categories: [Blog]
 tags: [blog]
-pin: true
 ---
 
 Inspired by Robb Knight's post [here](https://rknight.me/blog/app-defaults/) on the app defaults they use, I thought to list the software/hardware I currently prefer as default for my daily workflow.
