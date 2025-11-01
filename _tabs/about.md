@@ -53,7 +53,3 @@ I am an active speaker at meetups and conferences related to FOSS and Android. B
 - [Writing OS Updater App for Android](/assets/files/talks/updater.pdf) : COSCUP (July 2023)
 - [Implementing Configurable Device Security With Security Levels](/assets/files/talks/garliclevel.pdf): FOSSASIA (April 2023)
 - [Diving into Android Enterprise APIs with CalyxOS](/assets/files/talks/mdm.pdf): DurgFOSS (March 2023)
-
-## Bio (Speaker)
-
-**Aayush Gupta** (he/him), Android Developer and Developer Relations, is a self-taught developer, working on FOSS and various communities, prominently [XDA Developers](https://forum.xda-developers.com/m/theimpulson.6042178/), for the past few years. He holds multiple titles in numerous communities, both personal and professional. Working remotely from Bhilai, India, he actively contributes to developing Android-related projects.
