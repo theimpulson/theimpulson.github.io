@@ -12,15 +12,9 @@ You can find my work/speaker/community-related things below. If something needs 
 
 As an active freelancer and independent contractor, I have worked on many Android-related projects during my last few years. Some of the projects that I currently work on professionally as well as voluntarily are (public available):
 
+- **[NewPipe](https://github.com/TeamNewPipe/NewPipe):** A libre lightweight streaming front-end for Android.
+
 - **[Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore):** Aurora Store is an unofficial FOSS client to Google's Play Store.
-
-- **[CCIP-KMP](https://github.com/CCIP-App/CCIP-KMP):** CCIP (Community Checkin with Interactivity Project) a.k.a OPass, is Taiwan's FLOSS conference check-in solution and provides the newest event information for the audience.
-
-- **[Panic](https://gitlab.com/CalyxOS/platform_packages_apps_Panic):** Panic is an app that allows users to uninstall selected apps & run certain actions when a system-wide panic intent is triggered. It leverages the Guardian Project's PanicKit library for working with panic and related intents.
-
-- **[Bellis](https://github.com/CalyxOS/platform_packages_apps_Bellis):** Bellis is a work profile owner application allowing users to create and manage new work profiles easily. It was initially based on the sample applications provided by Google but has been completely rewritten in Kotlin and Material3 themes.
-
-- **[SystemUpdater](https://gitlab.com/CalyxOS/platform_packages_apps_SystemUpdater):** SystemUpdater is an updater app based on the sample application provided by AOSP. It is supposed to be used by CalyxOS to provide OTA to production devices soon.
 
 A complete list of active/in-active projects can be found on my [LinkedIn](https://www.linkedin.com/in/theimpulson/details/projects/).
 
