@@ -38,21 +38,21 @@ I am an active speaker at meetups and conferences related to FOSS and Android. B
 
 #### 2025
 
-- [Writing OPass in KMM](https://www.slideshare.net/slideshow/writing-opass-in-kotlin-multiplatform-mobile/277445916#3): AndroidTaipei (Apr 2025)
+- [Writing OPass in KMM](/assets/files/talks/opass.pdf): AndroidTaipei (Apr 2025)
 
 #### 2024
 
-- [Working with SELinux on Android](https://www.slideshare.net/slideshow/droidcon-uganda-working-with-selinux-on-android/273488160): Droidcon Uganda (Nov 2024)
-- [Building an Unofficial Client for XDA Developers](https://www.slideshare.net/slideshow/building-an-unofficial-client-for-xda-developers/270740236): COSCUP 2024 (Aug 2024)
-- [Migrating from Foreground Service to WorkManager](https://www.slideshare.net/slideshow/migrating-from-foreground-services-to-workmanager/270137038): HKOSCon 2024 (July 2024)
-- [Exploring App Installation APIs in Android](https://www.slideshare.net/slideshows/exploring-app-installation-apis-in-android/266818804): GDG Raipur (Mar 2024)
+- [Working with SELinux on Android](/assets/files/talks/selinux.pdf): Droidcon Uganda (Nov 2024)
+- [Building an Unofficial Client for XDA Developers](/assets/files/talks/relabs.pdf): COSCUP 2024 (Aug 2024)
+- [Migrating from Foreground Service to WorkManager](/assets/files/talks/workmanager.pdf): HKOSCon 2024 (July 2024)
+- [Exploring App Installation APIs in Android](/assets/files/talks/packageinstaller.pdf): GDG Raipur (Mar 2024)
 
 #### 2023
 
-- [Third-party App Stores on Android](https://www.slideshare.net/AayushGupta618113/thirdparty-app-stores-on-androidpptxpdf): DevFest Raipur 2023 (Dec 2023)
-- [Writing OS Updater App for Android](https://www.slideshare.net/AayushGupta618113/writing-os-updater-app-for-android), [YouTube](https://youtu.be/-RoVoQHRVGk) : COSCUP (July 2023)
-- [Implementing Configurable Device Security With Security Levels](https://www.slideshare.net/AayushGupta618113/implementing-configurable-device-security-with-security-levelspptx): FOSSASIA (April 2023)
-- [Diving into Android Enterprise APIs with CalyxOS](https://www.slideshare.net/AayushGupta618113/diving-into-android-enterprise-apis-with-calyxospptx): DurgFOSS (March 2023)
+- [Third-party App Stores on Android](/assets/files/talks/appstore.pdf): DevFest Raipur 2023 (Dec 2023)
+- [Writing OS Updater App for Android](/assets/files/talks/updater.pdf) : COSCUP (July 2023)
+- [Implementing Configurable Device Security With Security Levels](/assets/files/talks/garliclevel.pdf): FOSSASIA (April 2023)
+- [Diving into Android Enterprise APIs with CalyxOS](/assets/files/talks/mdm.pdf): DurgFOSS (March 2023)
 
 ## Bio (Speaker)
 
