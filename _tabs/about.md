@@ -38,6 +38,7 @@ I am an active speaker at meetups and conferences related to FOSS and Android. B
 
 #### 2025
 
+- [Navigation3 in Compose](/assets/files/talks/navigation3.pdf): AndroidTaipei (Oct 2025)
 - [Writing OPass in KMM](/assets/files/talks/opass.pdf): AndroidTaipei (Apr 2025)
 
 #### 2024
