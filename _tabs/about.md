@@ -12,9 +12,9 @@ You can find my work/speaker/community-related things below. If something needs 
 
 As an active freelancer and independent contractor, I have worked on many Android-related projects during my last few years. Some of the projects that I currently work on professionally as well as voluntarily are (public available):
 
-- **[NewPipe](https://github.com/TeamNewPipe/NewPipe):** A libre lightweight streaming front-end for Android.
+- **[Tor VPN](https://gitlab.torproject.org/tpo/applications/vpn):** Tor VPN for Android.
 
-- **[Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore):** Aurora Store is an unofficial FOSS client to Google's Play Store.
+- **[NewPipe](https://github.com/TeamNewPipe/NewPipe):** A libre lightweight streaming front-end for Android.
 
 A complete list of active/in-active projects can be found on my [LinkedIn](https://www.linkedin.com/in/theimpulson/details/projects/).
 
